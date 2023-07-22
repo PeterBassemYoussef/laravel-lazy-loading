@@ -1,7 +1,5 @@
-# laravel-lazy-loading
-Project Name: Laravel 9 Lazy Loading Images Template
+# Laravel 9 Lazy Loading Images Template
 
-Description:
 This educational project showcases a Laravel 9 template that demonstrates the implementation of lazy loading for images. Lazy loading is a technique used to improve the performance of web pages by loading images only when they come into the user's viewport, reducing initial page load time and data usage.
 
 In this project, we have built a responsive and user-friendly Laravel template that incorporates lazy loading for images. The template is designed to be easily customizable and can be used as a starting point for various web applications and websites.
